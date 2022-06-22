@@ -1,4 +1,4 @@
-# my_first_reppo
+# my_first_repo
 for practice purposes only
 
 
